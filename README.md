@@ -1,5 +1,5 @@
 # AM02-08-SecAuth
-### Sections 7 and 8 from AM02-Vue2
+### Sections 7 and 8 from AM02-Node9
 
 ![a](../assets/a.png?raw=true)
 
